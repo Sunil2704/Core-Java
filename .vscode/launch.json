@@ -1,0 +1,637 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AsciiValue",
+            "request": "launch",
+            "mainClass": "Array.AsciiValue",
+            "projectName": "New Java_7f561cd3"
+        },
+        {
+            "type": "java",
+            "name": "ArgEx",
+            "request": "launch",
+            "mainClass": "ArgEx",
+            "projectName": "New Java_7f561cd3"
+        },
+        {
+            "type": "java",
+            "name": "MethodEx",
+            "request": "launch",
+            "mainClass": "MethodEx",
+            "projectName": "New Java_7f561cd3"
+        },
+        {
+            "type": "java",
+            "name": "AgeCheck",
+            "request": "launch",
+            "mainClass": "AgeCheck",
+            "projectName": "New Java_7f561cd3"
+        },
+        {
+            "type": "java",
+            "name": "VariableShadowing",
+            "request": "launch",
+            "mainClass": "OOPs.VariableShadowing",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "OddInt",
+            "request": "launch",
+            "mainClass": "Array.OddInt",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "FloatScanner",
+            "request": "launch",
+            "mainClass": "Array.FloatScanner",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeDriver",
+            "request": "launch",
+            "mainClass": "Array.EmployeeDriver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "IntScanner",
+            "request": "launch",
+            "mainClass": "Array.IntScanner",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "FloatVSInt",
+            "request": "launch",
+            "mainClass": "Array.FloatVSInt",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "IntToChar",
+            "request": "launch",
+            "mainClass": "Array.IntToChar",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "SumArray",
+            "request": "launch",
+            "mainClass": "Array.SumArray",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "AsciiValue",
+            "request": "launch",
+            "mainClass": "Array.AsciiValue",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "EvenArray",
+            "request": "launch",
+            "mainClass": "Array.EvenArray",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ReverseLoop",
+            "request": "launch",
+            "mainClass": "Array.ReverseLoop",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Exceptionn",
+            "request": "launch",
+            "mainClass": "Array.Exceptionn",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Blopping",
+            "request": "launch",
+            "mainClass": "Array.Blopping",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "Array.A",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Execute",
+            "request": "launch",
+            "mainClass": "GetterSetter.Execute",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "GetterSetter.App",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Details",
+            "request": "launch",
+            "mainClass": "Scanner.Details",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ILoveIndia",
+            "request": "launch",
+            "mainClass": "Scanner.ILoveIndia",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "FloattoInt",
+            "request": "launch",
+            "mainClass": "Scanner.FloattoInt",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "AgeCheck",
+            "request": "launch",
+            "mainClass": "Scanner.AgeCheck",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Ex",
+            "request": "launch",
+            "mainClass": "Scanner.Ex",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "Initilizer.A",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "Initilizer.Person",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "NewB",
+            "request": "launch",
+            "mainClass": "Initilizer.NewB",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "Initilizer.B",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "ConstructorOverload.B",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "ConstructorOverload.A",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Vehicle",
+            "request": "launch",
+            "mainClass": "ConstructorOverload.Vehicle",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Shape",
+            "request": "launch",
+            "mainClass": "ConstructorOverload.Shape",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "NewFactorial",
+            "request": "launch",
+            "mainClass": "FactorialRecursion.NewFactorial",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Change",
+            "request": "launch",
+            "mainClass": "Change",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Loop.Hello",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Days",
+            "request": "launch",
+            "mainClass": "Switch.Days",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "PhonePe",
+            "request": "launch",
+            "mainClass": "NonStaticMethod.PhonePe",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "NonStaticMethod.Circle",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "NonStaticMethod.Area",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Mobile",
+            "request": "launch",
+            "mainClass": "NonStaticMethod.Mobile",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "SBI",
+            "request": "launch",
+            "mainClass": "NonStaticMethod.SBI",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "NonStaticMethod.User",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "OOPs.A",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Bottle",
+            "request": "launch",
+            "mainClass": "OOPs.Bottle",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "OOPs.User",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Product",
+            "request": "launch",
+            "mainClass": "OOPs.Product",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Linc",
+            "request": "launch",
+            "mainClass": "OOPs.Linc",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Qbtm",
+            "request": "launch",
+            "mainClass": "OOPs.Qbtm",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "OlaDriver",
+            "request": "launch",
+            "mainClass": "Upcasting.OlaDriver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "SwippingMachine",
+            "request": "launch",
+            "mainClass": "Upcasting.SwippingMachine",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "CardDriver",
+            "request": "launch",
+            "mainClass": "Upcasting.CardDriver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "FatherDriver",
+            "request": "launch",
+            "mainClass": "Upcasting.FatherDriver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "SongDriver",
+            "request": "launch",
+            "mainClass": "Upcasting.SongDriver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "CorrectionMEthodOverLoad2",
+            "request": "launch",
+            "mainClass": "CorrectionMEthodOverLoad2",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Citizen",
+            "request": "launch",
+            "mainClass": "Citizen",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ExProgram",
+            "request": "launch",
+            "mainClass": "ExProgram",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ExecuteFS",
+            "request": "launch",
+            "mainClass": "ExecuteFS",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Driver",
+            "request": "launch",
+            "mainClass": "Inheritance.DownString.Driver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "GanaDriver",
+            "request": "launch",
+            "mainClass": "Inheritance.DownString2.GanaDriver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "SwipingMachine",
+            "request": "launch",
+            "mainClass": "Inheritance.Downcast2.SwipingMachine",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "JobExecute",
+            "request": "launch",
+            "mainClass": "Inheritance.Downcasting1.JobExecute",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ShowV",
+            "request": "launch",
+            "mainClass": "Inheritance.Vehicle.brand.ShowV",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Driver(1)",
+            "request": "launch",
+            "mainClass": "Inheritance.Vehicles.Driver",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "AgeCheck",
+            "request": "launch",
+            "mainClass": "Method.AgeCheck",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ArgEx",
+            "request": "launch",
+            "mainClass": "Method.ArgEx",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Convert",
+            "request": "launch",
+            "mainClass": "Method.Convert",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Convert2",
+            "request": "launch",
+            "mainClass": "Method.Convert2",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "MethodEx",
+            "request": "launch",
+            "mainClass": "Method.MethodEx",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Number",
+            "request": "launch",
+            "mainClass": "Method.Number",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "StackEx",
+            "request": "launch",
+            "mainClass": "Method.StackEx",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Method.Test",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "Method.Test2",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "CorrectionMEthodOverLoad2",
+            "request": "launch",
+            "mainClass": "MethodOverLoad.CorrectionMEthodOverLoad2",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverLoad",
+            "request": "launch",
+            "mainClass": "MethodOverLoad.MethodOverLoad",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverLoad2",
+            "request": "launch",
+            "mainClass": "MethodOverLoad.MethodOverLoad2",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverload3",
+            "request": "launch",
+            "mainClass": "MethodOverLoad.MethodOverload3",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverload4",
+            "request": "launch",
+            "mainClass": "MethodOverLoad.MethodOverload4",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "OverLoadHw",
+            "request": "launch",
+            "mainClass": "MethodOverLoad.OverLoadHw",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "OverLoadMainMethod",
+            "request": "launch",
+            "mainClass": "MethodOverLoad.OverLoadMainMethod",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Emp",
+            "request": "launch",
+            "mainClass": "OOPs.Emp",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "Fctorial",
+            "request": "launch",
+            "mainClass": "Recursion.FactorialRecursion.Fctorial",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "RecursionEx",
+            "request": "launch",
+            "mainClass": "Recursion.RecursionEx",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "RecursionEx2",
+            "request": "launch",
+            "mainClass": "Recursion.RecursionEx2",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ReturnEx",
+            "request": "launch",
+            "mainClass": "ReturnEx",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ReturnEx2",
+            "request": "launch",
+            "mainClass": "ReturnEx2",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ReturnEx3",
+            "request": "launch",
+            "mainClass": "ReturnEx3",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "ReturnEx4",
+            "request": "launch",
+            "mainClass": "ReturnEx4",
+            "projectName": "New Java_423a27c1"
+        },
+        {
+            "type": "java",
+            "name": "User",
+            "request": "launch",
+            "mainClass": "User",
+            "projectName": "New Java_423a27c1"
+        }
+    ]
+}
